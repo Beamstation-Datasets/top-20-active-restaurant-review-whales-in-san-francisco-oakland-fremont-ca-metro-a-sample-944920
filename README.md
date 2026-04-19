@@ -9,9 +9,9 @@
 | Dataset ID | `944920` |
 | Location | San Francisco-Oakland-Fremont, CA |
 | Category | Restaurants |
-| Full dataset size | 663 records |
-| Free sample size | 84 records (12.67%) |
-| Last export | 2026-03-31T23:31:38.950645+00:00 |
+| Full dataset size | 843 records |
+| Free sample size | 84 records (9.96%) |
+| Last export | 2026-04-15T01:10:08.238675+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-20-active-restaurant-review-whales-in-san-francisco-oakland-fremont-ca-metro-a-sample-944920/releases/download/sample-latest/beamstation_944920_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
