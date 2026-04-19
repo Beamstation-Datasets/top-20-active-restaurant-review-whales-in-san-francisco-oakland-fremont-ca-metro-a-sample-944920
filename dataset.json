@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 20% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 10km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 20% Active Restaurant Review Whales in San Francisco-Oakland-Fremont, CA Metro Area, US",
-  "export_job_id": "e2e96103-6f76-406c-82ce-74330e911052",
+  "export_job_id": "77fdfb76-b2cb-4370-9556-994f39760a00",
   "github_org": "Beamstation-Datasets",
   "id_short": 944920,
   "location_name": "San Francisco-Oakland-Fremont, CA",
   "location_type": "metro",
   "repo_name": "top-20-active-restaurant-review-whales-in-san-francisco-oakland-fremont-ca-metro-a-sample-944920",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/944920/beamstation_944920_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
-  "sample_pct": 12.67,
+  "sample_pct": 9.96,
   "sample_records": 84,
   "sample_sha256": "32a9404243fed6df0717f8a7b95f69811766f4566ea793df3334e7e601a2de3f",
   "sample_size_bytes": 338512,
-  "total_records": 663,
-  "updated_at": "2026-03-31T23:31:38.950645+00:00"
+  "total_records": 843,
+  "updated_at": "2026-04-15T01:10:08.238675+00:00"
 }
