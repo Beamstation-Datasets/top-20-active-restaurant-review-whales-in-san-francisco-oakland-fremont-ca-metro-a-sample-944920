@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ee395a53-bd55-4102-a6da-cbb203a483a2",
+  "export_job_id": "222adbbc-1013-4c74-b04d-49fbf4aa9094",
   "id_short": 944920,
-  "published_at": "2026-04-22T19:09:45Z",
+  "published_at": "2026-04-29T19:18:15Z",
   "repo_name": "top-20-active-restaurant-review-whales-in-san-francisco-oakland-fremont-ca-metro-a-sample-944920",
   "sample_asset_name": "beamstation_944920_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/944920/beamstation_944920_restaurants-us-sanfranciscooaklandfremontca_SAMPLE_DIST.csv",
-  "sample_records": 51,
-  "sample_sha256": "2fd726c05c08b223138c1aff47fc2625fdc378a87ffc63c3e3c809bb98073f49",
-  "sample_size_bytes": 211569,
-  "total_records": 514
+  "sample_records": 103,
+  "sample_sha256": "41ee4ebb0eede487076d6c74d63d8f3c14624a8fcd0252e03f852074e99ac86e",
+  "sample_size_bytes": 416120,
+  "total_records": 1034
 }
